@@ -4,7 +4,7 @@ admin credentials: admin@gmail.com adminpassword
 Demo
 
 Here is the link to the live demo:
-Demo Link ([Replace this with the actual link once available.](https://youtu.be/7TTZraUTWdg))
+Demo Link (https://youtu.be/7TTZraUTWdg)
 
 
 Event Attendance Management System (EAMS)
